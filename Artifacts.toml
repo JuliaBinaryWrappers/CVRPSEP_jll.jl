@@ -1,0 +1,143 @@
+[[CVRPSEP]]
+arch = "aarch64"
+git-tree-sha1 = "698b38a2ae284752cf1130a42518f0afb4a8d6bb"
+os = "macos"
+
+    [[CVRPSEP.download]]
+    sha256 = "738b3359771414e7a1ad6870c0cef6802e970bf9df73547d1755c8079c8ca10c"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[CVRPSEP]]
+arch = "aarch64"
+git-tree-sha1 = "7bcb6dec82488173381ff7f97b43f5663b557174"
+libc = "glibc"
+os = "linux"
+
+    [[CVRPSEP.download]]
+    sha256 = "f938cb974d3d738959a9fea9a997eb906cf5b210699aff46597f0deb38ba9e51"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[CVRPSEP]]
+arch = "aarch64"
+git-tree-sha1 = "23f653a53949f4db65b3268a37d278843d45b4d8"
+libc = "musl"
+os = "linux"
+
+    [[CVRPSEP.download]]
+    sha256 = "10d734590c3f65541558256260baa54bd4b52408efd74b80c0df09317a9d6bc6"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.aarch64-linux-musl.tar.gz"
+[[CVRPSEP]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "dbd319d2c878b35907da1318363cbe82944237bd"
+libc = "glibc"
+os = "linux"
+
+    [[CVRPSEP.download]]
+    sha256 = "385404ea504fe0bea7f40b629be9779ce65629feb655d3216dff91999f887b79"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[CVRPSEP]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6f01a01b635d867ef20dd713ed661f58c30f9a76"
+libc = "musl"
+os = "linux"
+
+    [[CVRPSEP.download]]
+    sha256 = "0b15438c0acd628eb1f7eb0d0e4fab73fc6332828ee5ee4685ae981d85e57e7a"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.armv6l-linux-musleabihf.tar.gz"
+[[CVRPSEP]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4a35459a710cd4830afd7b28e34d55945cd4c569"
+libc = "glibc"
+os = "linux"
+
+    [[CVRPSEP.download]]
+    sha256 = "7827a5da13029bf47f09cd08d31fa540a7dcc763c07f9d4b7af90f711f2b75f8"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[CVRPSEP]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "349bd1c9f5d8606ea64c2fc148c19df92421d17e"
+libc = "musl"
+os = "linux"
+
+    [[CVRPSEP.download]]
+    sha256 = "d9f007eb734dcf18de336a747d4b7a684eb46c2fcbcf0934c35e609c7b4e93ab"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[CVRPSEP]]
+arch = "i686"
+git-tree-sha1 = "12971d2ac831881d1d6e8fc4a57c9f7bbb49e4e2"
+libc = "glibc"
+os = "linux"
+
+    [[CVRPSEP.download]]
+    sha256 = "0f3b6a4fe05dae5c9323aeb68ee4a9767aa1951800a909620c358d41cdc25df8"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.i686-linux-gnu.tar.gz"
+[[CVRPSEP]]
+arch = "i686"
+git-tree-sha1 = "04519bc44048ce54c47c44bb03849676aa2493b4"
+libc = "musl"
+os = "linux"
+
+    [[CVRPSEP.download]]
+    sha256 = "729abc256abd6eef26dd4ca13f1362359b5ec665a58dfa62b83c56796341f7bd"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.i686-linux-musl.tar.gz"
+[[CVRPSEP]]
+arch = "i686"
+git-tree-sha1 = "87c1c864879db20f7a4031aaefe8dac21928a423"
+os = "windows"
+
+    [[CVRPSEP.download]]
+    sha256 = "6c064002a309c6569e6da3868ff7715bf01c2bddc5a5094796a4f77b28ce4b99"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.i686-w64-mingw32.tar.gz"
+[[CVRPSEP]]
+arch = "powerpc64le"
+git-tree-sha1 = "3ca124b0018d9a17022dcb63f53138df01ec5dda"
+libc = "glibc"
+os = "linux"
+
+    [[CVRPSEP.download]]
+    sha256 = "4406e473b13fb383753b47f2e62a8ef6d939952fa3e01b9cc1a560f09e612474"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[CVRPSEP]]
+arch = "x86_64"
+git-tree-sha1 = "ffcfc099ab712b3846851033576dfde53fa8bfe0"
+os = "macos"
+
+    [[CVRPSEP.download]]
+    sha256 = "63960ce048e527afd3e2ac22b35052e8b3c307538005528079e2c24bcd2e582e"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[CVRPSEP]]
+arch = "x86_64"
+git-tree-sha1 = "6d1e118f16e16e15ced7f6f8a3d9788b04255b66"
+libc = "glibc"
+os = "linux"
+
+    [[CVRPSEP.download]]
+    sha256 = "1493e43bfce84124561fe21a4b510ca8ebc07255aeb46d42f0556004a49b6c6f"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[CVRPSEP]]
+arch = "x86_64"
+git-tree-sha1 = "34903b9231069852ee214af4c56fb4a70f23092f"
+libc = "musl"
+os = "linux"
+
+    [[CVRPSEP.download]]
+    sha256 = "f166cbe4add11a1adce5d410ea81d0a0299fcc436b21b94b2e9ce5d9277219e1"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.x86_64-linux-musl.tar.gz"
+[[CVRPSEP]]
+arch = "x86_64"
+git-tree-sha1 = "cf562db591445cd8effeed6864e3e038664f1ac2"
+os = "freebsd"
+
+    [[CVRPSEP.download]]
+    sha256 = "2bfc888c6414c10c34f0b3c0220200e39c32ddf45fee9b89f4424043390d3202"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[CVRPSEP]]
+arch = "x86_64"
+git-tree-sha1 = "1ab8e20e624a5c27b821c84a6b86d10f3b1baf10"
+os = "windows"
+
+    [[CVRPSEP.download]]
+    sha256 = "e0d6db4e77f5f7a5e2efd69cb9914d2b213de23b8070e829af6a61f55832acab"
+    url = "https://github.com/JuliaBinaryWrappers/CVRPSEP_jll.jl/releases/download/CVRPSEP-v0.1.0+0/CVRPSEP.v0.1.0.x86_64-w64-mingw32.tar.gz"
